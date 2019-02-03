@@ -1,6 +1,4 @@
-# Mobile Web Specialist Certification Course
----
-#### _Three Stage Course Material Project - Restaurant Reviews_
+# Udacity FEND Project 6 - Restaurant Reviews
 
 ## Project Overview: Stage 1
 
