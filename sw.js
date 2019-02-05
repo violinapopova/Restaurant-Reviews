@@ -19,6 +19,7 @@ const filesToCache = [
     '/img/10.jpg'
 ];
 
+/* Installation of Service Worker */
 self.addEventListener('install', function(e) {
     e.waitUntil(
         caches.open('version1').then(function(cache) {
