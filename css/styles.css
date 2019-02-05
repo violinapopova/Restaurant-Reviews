@@ -153,10 +153,8 @@ nav h1 a {
 .filter-options {
   justify-content: center;
   width: 100%;
-  height: 50px;
   background-color: #3397db;
   align-items: center;
-  display: flex;
   flex-direction: row;
 }
 
